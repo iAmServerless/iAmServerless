@@ -1,7 +1,6 @@
 <p align='center' style="background:#aaa"> 
     <a href="https://ashu.online"><img src="https://ashu.online/animation.svg"></a>&nbsp;&nbsp;
     <a href="https://ashu.online"><img src="https://ashu.online/animation.svg"></a>&nbsp;&nbsp;
-    <a href="https://ashu.online"><img src="https://ashu.online/animation.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>
