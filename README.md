@@ -12,7 +12,7 @@
 
 
 <h1 align="center">Hello there! I am Ashutosh Sharma</h1>
-<h3 align="center">Engineering Manager @ Housing.com</h3>
+<h3 align="center">Engineering Manager @ Razorpay.com</h3>
 
 -  Managing a team of Senior Engineers responsible for Housing demand-side application.
 -  Led the development of continuous delivery infrastructure to enable build, automation, deployment, and monitoring.
@@ -49,7 +49,7 @@ Lighthouse: Expectation vs. Reality
 📫 How to reach me: ...
 
 <p>
-- Email - ashutosh@ashu.online
+- Email - you@ashutosharma.com
   
 <a href="https://medium.com/@iamserverless"><img height="30" src="https://ashu.online/medium.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/iamserverless"><img height="30" src="https://ashu.online/twitter.png"></a>&nbsp;&nbsp;
