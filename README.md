@@ -1,13 +1,13 @@
 <p align='center' style="background:#aaa"> 
-    <a href="https://ashu.online"><img src="https://ashu.online/animation.svg"></a>&nbsp;&nbsp;
-    <a href="https://ashu.online"><img src="https://ashu.online/animation.svg"></a>&nbsp;&nbsp;
+    <a href="https://ashutosharma.com"><img src="https://ashutosharma.com/animation.svg"></a>&nbsp;&nbsp;
+    <a href="https://ashutosharma.com"><img src="https://ashutosharma.com/animation.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>
-<a href="https://medium.com/@iamserverless"><img height="30" src="https://ashu.online/medium.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/iamserverless"><img height="30" src="https://ashu.online/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/iamserverless"><img height="30" src="https://ashu.online/fb.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/iamserverless/"><img height="30" src="https://ashu.online/linkedin.png"></a>
+<a href="https://medium.com/@iamserverless"><img height="30" src="https://ashutosharma.com/medium.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/iamserverless"><img height="30" src="https://ashutosharma.com/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/iamserverless"><img height="30" src="https://ashutosharma.com/fb.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/iamserverless/"><img height="30" src="https://ashutosharma.com/linkedin.png"></a>
 </p>
 
 
@@ -24,10 +24,10 @@
 
 ### My Articles ..
 <p>
-<a href="https://ashu.online/blogs/optimize-dns-resolution-for-fast-website">
+<a href="https://ashutosharma.com/blogs/optimize-dns-resolution-for-fast-website">
 3 ways to optimize DNS resolution
 </a></p>
-<p><a href="https://ashu.online/blogs/lighthouse-performance-auditing-things-you-should-know">
+<p><a href="https://ashutosharma.com/blogs/lighthouse-performance-auditing-things-you-should-know">
 Lighthouse: Expectation vs. Reality
 </a></p>
 
@@ -51,10 +51,10 @@ Lighthouse: Expectation vs. Reality
 <p>
 - Email - you@ashutosharma.com
   
-<a href="https://medium.com/@iamserverless"><img height="30" src="https://ashu.online/medium.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/iamserverless"><img height="30" src="https://ashu.online/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/iamserverless"><img height="30" src="https://ashu.online/fb.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/iamserverless/"><img height="30" src="https://ashu.online/linkedin.png"></a>
+<a href="https://medium.com/@iamserverless"><img height="30" src="https://ashutosharma.com/medium.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/iamserverless"><img height="30" src="https://ashutosharma.com/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/iamserverless"><img height="30" src="https://ashutosharma.com/fb.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/iamserverless/"><img height="30" src="https://ashutosharma.com/linkedin.png"></a>
 </p>
 
 
